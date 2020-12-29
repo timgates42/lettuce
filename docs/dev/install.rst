@@ -8,7 +8,7 @@ Here are guidelines to get a development environment for lettuce.
 OS specific
 ***********
 
-Here are repcipes for specific operating systems. They should help you go fast
+Here are recipes for specific operating systems. They should help you go fast
 or automate lettuce installation procedure:
 
 .. toctree::
